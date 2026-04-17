@@ -76,5 +76,11 @@
         "deu": "Legen Sie die Tasse hinter den Stuhl.",
         "arb": "ضع الكوب خلف الكرسي",
         "ita": "Metti la tazza dietro la sedia."
+    },
+    "table-in-front-of": {
+        "eng": "Place the mug in front of the table."
+    },
+    "table-behind" : {
+        "eng": "Place the mug behind the table."
     }
 }
