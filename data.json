@@ -16,5 +16,35 @@
         "deu": "Stell die Tasse neben den Tisch.",
         "arb": "ضع الكوب بجانب الطاولة",
         "ita": "Metti la tazza vicino al tavolo."
+    },
+    "chair-next-to": {
+        "eng": "Place the mug next to the chair."
+    },
+    "table-chair-between": {
+        "eng": "Place the mug between the table and the chair."
+    },
+    "table-right-of": {
+        "eng": "Place the mug to the right of the table."
+    },
+    "chair-left-of": {
+        "eng": "Place the mug to the left of the chair."
+    },
+    "table-left-of": {
+        "eng": "Place the mug to the left of the table."
+    },
+    "table-below": {
+        "eng": "Place the mug under the table."
+    },
+    "chair-below": {
+        "eng": "Place the mug under the chair."
+    },
+    "chair-right-of": {
+        "eng": "Place the mug to the right of the chair."
+    },
+    "chair-in-front-of": {
+        "eng": "Place the mug in front of the chair."
+    },
+    "chair-behind": {
+        "eng": "Place the mug behind the chair."
     }
 }
