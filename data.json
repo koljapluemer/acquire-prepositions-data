@@ -1,14 +1,20 @@
 {
     "table-on": {
         "eng": "Place the mug on the table.",
-        "deu": "Stell die Tasse auf den Tisch."
+        "deu": "Stell die Tasse auf den Tisch.",
+        "arb": "ضع الكوب على الطاولة",
+        "ita": "Metti la tazza sul tavolo."
     },
     "chair-on": {
         "eng": "Place the mug on the chair.",
-        "deu": "Stell die Tasse auf den Stuhl."
+        "deu": "Stell die Tasse auf den Stuhl.",
+        "arb": "ضع الكوب على الكرسي",
+        "ita": "Metti la tazza sulla sedia."
     },
     "table-next-to": {
         "eng": "Place the mug next to the table.",
-        "deu": "Stell die Tasse neben den Tisch."
+        "deu": "Stell die Tasse neben den Tisch.",
+        "arb": "ضع الكوب بجانب الطاولة",
+        "ita": "Metti la tazza vicino al tavolo."
     }
 }
