@@ -18,33 +18,63 @@
         "ita": "Metti la tazza vicino al tavolo."
     },
     "chair-next-to": {
-        "eng": "Place the mug next to the chair."
+        "eng": "Place the mug next to the chair.",
+        "deu": "Legen Sie den Becher neben dem Stuhl.",
+        "arb": "ضع الطين بجانب الكرسي",
+        "ita": "Metti la tazza vicino alla sedia."
     },
     "table-chair-between": {
-        "eng": "Place the mug between the table and the chair."
+        "eng": "Place the mug between the table and the chair.",
+        "deu": "Legen Sie die Tasse zwischen dem Tisch und dem Stuhl.",
+        "arb": "ضع الكوب بين الطاولة والكرسي",
+        "ita": "Posizionare la tazza tra il tavolo e la sedia."
     },
     "table-right-of": {
-        "eng": "Place the mug to the right of the table."
+        "eng": "Place the mug to the right of the table.",
+        "deu": "Legen Sie den Becher rechts auf den Tisch.",
+        "arb": "ضع الطين على اليمين",
+        "ita": "Metti la tazza a destra del tavolo."
     },
     "chair-left-of": {
-        "eng": "Place the mug to the left of the chair."
+        "eng": "Place the mug to the left of the chair.",
+        "deu": "Legen Sie die Tasse links vom Stuhl.",
+        "arb": "ضع الكوب على اليسار",
+        "ita": "Posizionare la tazza a sinistra della sedia."
     },
     "table-left-of": {
-        "eng": "Place the mug to the left of the table."
+        "eng": "Place the mug to the left of the table.",
+        "deu": "Legen Sie den Becher links auf den Tisch.",
+        "arb": "ضع الطين إلى اليسار من الطاولة",
+        "ita": "Posizionare la tazza a sinistra del tavolo."
     },
     "table-below": {
-        "eng": "Place the mug under the table."
+        "eng": "Place the mug under the table.",
+        "deu": "Legen Sie den Becher unter den Tisch.",
+        "arb": "ضع الطين تحت الطاولة",
+        "ita": "Metti la tazza sotto il tavolo."
     },
     "chair-below": {
-        "eng": "Place the mug under the chair."
+        "eng": "Place the mug under the chair.",
+        "deu": "Legen Sie die Tasse unter den Stuhl.",
+        "arb": "ضع الكوب تحت الكرسي",
+        "ita": "Metti la tazza sotto la sedia."
     },
     "chair-right-of": {
-        "eng": "Place the mug to the right of the chair."
+        "eng": "Place the mug to the right of the chair.",
+        "deu": "Legen Sie den Becher rechts vom Stuhl.",
+        "arb": "ضع الكوب على اليمين",
+        "ita": "Metti la tazza a destra della sedia."
     },
     "chair-in-front-of": {
-        "eng": "Place the mug in front of the chair."
+        "eng": "Place the mug in front of the chair.",
+        "deu": "Legen Sie den Becher vor den Stuhl.",
+        "arb": "ضع الكوب أمام الكرسي",
+        "ita": "Metti la tazza davanti alla sedia."
     },
     "chair-behind": {
-        "eng": "Place the mug behind the chair."
+        "eng": "Place the mug behind the chair.",
+        "deu": "Legen Sie die Tasse hinter den Stuhl.",
+        "arb": "ضع الكوب خلف الكرسي",
+        "ita": "Metti la tazza dietro la sedia."
     }
 }
