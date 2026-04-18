@@ -12,7 +12,9 @@
             "eng": "audio/eng/table-on.mp3",
             "arb": "audio/arb/table-on.mp3",
             "ita": "audio/ita/table-on.mp3",
-            "fra": "audio/fra/table-on.mp3"
+            "fra": "audio/fra/table-on.mp3",
+            "vie": "audio/vie/table-on.mp3",
+            "tha": "audio/tha/table-on.mp3"
         }
     },
     "chair-on": {
@@ -28,7 +30,9 @@
             "eng": "audio/eng/chair-on.mp3",
             "arb": "audio/arb/chair-on.mp3",
             "ita": "audio/ita/chair-on.mp3",
-            "fra": "audio/fra/chair-on.mp3"
+            "fra": "audio/fra/chair-on.mp3",
+            "vie": "audio/vie/chair-on.mp3",
+            "tha": "audio/tha/chair-on.mp3"
         }
     },
     "table-next-to": {
@@ -44,7 +48,9 @@
             "eng": "audio/eng/table-next-to.mp3",
             "arb": "audio/arb/table-next-to.mp3",
             "ita": "audio/ita/table-next-to.mp3",
-            "fra": "audio/fra/table-next-to.mp3"
+            "fra": "audio/fra/table-next-to.mp3",
+            "vie": "audio/vie/table-next-to.mp3",
+            "tha": "audio/tha/table-next-to.mp3"
         }
     },
     "chair-next-to": {
@@ -60,7 +66,9 @@
             "eng": "audio/eng/chair-next-to.mp3",
             "arb": "audio/arb/chair-next-to.mp3",
             "ita": "audio/ita/chair-next-to.mp3",
-            "fra": "audio/fra/chair-next-to.mp3"
+            "fra": "audio/fra/chair-next-to.mp3",
+            "vie": "audio/vie/chair-next-to.mp3",
+            "tha": "audio/tha/chair-next-to.mp3"
         }
     },
     "table-chair-between": {
@@ -76,7 +84,9 @@
             "eng": "audio/eng/table-chair-between.mp3",
             "arb": "audio/arb/table-chair-between.mp3",
             "ita": "audio/ita/table-chair-between.mp3",
-            "fra": "audio/fra/table-chair-between.mp3"
+            "fra": "audio/fra/table-chair-between.mp3",
+            "vie": "audio/vie/table-chair-between.mp3",
+            "tha": "audio/tha/table-chair-between.mp3"
         }
     },
     "table-right-of": {
@@ -92,7 +102,9 @@
             "eng": "audio/eng/table-right-of.mp3",
             "arb": "audio/arb/table-right-of.mp3",
             "ita": "audio/ita/table-right-of.mp3",
-            "fra": "audio/fra/table-right-of.mp3"
+            "fra": "audio/fra/table-right-of.mp3",
+            "vie": "audio/vie/table-right-of.mp3",
+            "tha": "audio/tha/table-right-of.mp3"
         }
     },
     "chair-left-of": {
@@ -108,7 +120,9 @@
             "eng": "audio/eng/chair-left-of.mp3",
             "arb": "audio/arb/chair-left-of.mp3",
             "ita": "audio/ita/chair-left-of.mp3",
-            "fra": "audio/fra/chair-left-of.mp3"
+            "fra": "audio/fra/chair-left-of.mp3",
+            "vie": "audio/vie/chair-left-of.mp3",
+            "tha": "audio/tha/chair-left-of.mp3"
         }
     },
     "table-left-of": {
@@ -124,7 +138,9 @@
             "eng": "audio/eng/table-left-of.mp3",
             "arb": "audio/arb/table-left-of.mp3",
             "ita": "audio/ita/table-left-of.mp3",
-            "fra": "audio/fra/table-left-of.mp3"
+            "fra": "audio/fra/table-left-of.mp3",
+            "vie": "audio/vie/table-left-of.mp3",
+            "tha": "audio/tha/table-left-of.mp3"
         }
     },
     "table-below": {
@@ -140,7 +156,9 @@
             "eng": "audio/eng/table-below.mp3",
             "arb": "audio/arb/table-below.mp3",
             "ita": "audio/ita/table-below.mp3",
-            "fra": "audio/fra/table-below.mp3"
+            "fra": "audio/fra/table-below.mp3",
+            "vie": "audio/vie/table-below.mp3",
+            "tha": "audio/tha/table-below.mp3"
         }
     },
     "chair-below": {
@@ -156,7 +174,9 @@
             "eng": "audio/eng/chair-below.mp3",
             "arb": "audio/arb/chair-below.mp3",
             "ita": "audio/ita/chair-below.mp3",
-            "fra": "audio/fra/chair-below.mp3"
+            "fra": "audio/fra/chair-below.mp3",
+            "vie": "audio/vie/chair-below.mp3",
+            "tha": "audio/tha/chair-below.mp3"
         }
     },
     "chair-right-of": {
@@ -172,7 +192,9 @@
             "eng": "audio/eng/chair-right-of.mp3",
             "arb": "audio/arb/chair-right-of.mp3",
             "ita": "audio/ita/chair-right-of.mp3",
-            "fra": "audio/fra/chair-right-of.mp3"
+            "fra": "audio/fra/chair-right-of.mp3",
+            "vie": "audio/vie/chair-right-of.mp3",
+            "tha": "audio/tha/chair-right-of.mp3"
         }
     },
     "chair-in-front-of": {
@@ -188,7 +210,9 @@
             "eng": "audio/eng/chair-in-front-of.mp3",
             "arb": "audio/arb/chair-in-front-of.mp3",
             "ita": "audio/ita/chair-in-front-of.mp3",
-            "fra": "audio/fra/chair-in-front-of.mp3"
+            "fra": "audio/fra/chair-in-front-of.mp3",
+            "vie": "audio/vie/chair-in-front-of.mp3",
+            "tha": "audio/tha/chair-in-front-of.mp3"
         }
     },
     "chair-behind": {
@@ -204,7 +228,9 @@
             "eng": "audio/eng/chair-behind.mp3",
             "arb": "audio/arb/chair-behind.mp3",
             "ita": "audio/ita/chair-behind.mp3",
-            "fra": "audio/fra/chair-behind.mp3"
+            "fra": "audio/fra/chair-behind.mp3",
+            "vie": "audio/vie/chair-behind.mp3",
+            "tha": "audio/tha/chair-behind.mp3"
         }
     },
     "table-in-front-of": {
@@ -220,7 +246,9 @@
             "eng": "audio/eng/table-in-front-of.mp3",
             "arb": "audio/arb/table-in-front-of.mp3",
             "ita": "audio/ita/table-in-front-of.mp3",
-            "fra": "audio/fra/table-in-front-of.mp3"
+            "fra": "audio/fra/table-in-front-of.mp3",
+            "vie": "audio/vie/table-in-front-of.mp3",
+            "tha": "audio/tha/table-in-front-of.mp3"
         }
     },
     "table-behind": {
@@ -236,7 +264,9 @@
             "eng": "audio/eng/table-behind.mp3",
             "arb": "audio/arb/table-behind.mp3",
             "ita": "audio/ita/table-behind.mp3",
-            "fra": "audio/fra/table-behind.mp3"
+            "fra": "audio/fra/table-behind.mp3",
+            "vie": "audio/vie/table-behind.mp3",
+            "tha": "audio/tha/table-behind.mp3"
         }
     }
 }
